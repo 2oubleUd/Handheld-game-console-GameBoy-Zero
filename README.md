@@ -6,6 +6,7 @@ Whole project is based on microcomputer Raspberry Pi Zero W. Microcomputer is su
 PCBs have been reworked.
 
 Motherboard of console
+
 ![image](https://github.com/2oubleUd/Handheld-game-console-GameBoy-Zero/assets/80854986/a275254a-5907-4d5e-8b5b-4fca478e4138)
 
 ![image](https://github.com/2oubleUd/Handheld-game-console-GameBoy-Zero/assets/80854986/acf6b7ad-b13e-47b6-a52a-22a799b85635)
