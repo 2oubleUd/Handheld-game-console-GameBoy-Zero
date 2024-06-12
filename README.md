@@ -22,4 +22,3 @@ Volume circuit with power switch
 
 ![image](https://github.com/2oubleUd/Handheld-game-console-GameBoy-Zero/assets/80854986/af572b71-bedf-48eb-aa6c-92af3c88b21b)
 
-
